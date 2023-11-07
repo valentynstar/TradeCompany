@@ -1,0 +1,78 @@
+.about-our-team{
+	margin-top: 70px;
+}
+.about-our-team-main{
+	text-align: center;
+	margin: 0 auto;
+}
+.about-our-team-main h2{
+	text-align: center;
+	margin: 0 auto;
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 51px;
+	margin-bottom: 57px;
+}
+.about-our-team-main span{
+	font-family: 'Open Sans';
+	font-weight: normal;
+	font-size: 16px;
+	color: #969595;
+	text-align: center;
+}
+.about-our-team-info{
+	margin-top: 115px;
+	text-align: center;
+	padding-bottom: 140px;
+}
+.about-our-team-info-third,
+.about-our-team-info-second,
+.about-our-team-info-first{
+	border: 1px solid #f1f1f1;
+}
+.about-our-team-info-third h3,
+.about-our-team-info-second h3,
+.about-our-team-info-first h3{
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 16px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 28px;
+}
+.about-our-team-info-third span,
+.about-our-team-info-second span,
+.about-our-team-info-first span{
+	font-family: 'Open Sans';
+	font-weight: normal;
+	font-size: 13px;
+	color: #969595;
+	text-align: center;
+	padding: 0px 3px;
+	
+}
+.about-our-team-info-third hr,
+.about-our-team-info-second hr,
+.about-our-team-info-first hr{
+	width: 100%;
+	background-color: f1f1f1;
+}
+.about-our-team-info-social{
+	padding-top: 25px;
+	display: inline-block;
+	padding: 10px;
+}
+.about-our-team-info-social i{
+	width: 30px;
+	height: 30px;
+	border: 3px solid #f1f1f1;
+	border-radius: 50%;
+	color: #dadada;
+    padding-top: 4px;
+	transition: all 0.3s;
+}
+.about-our-team-info-social a i:hover{
+	color: #fff;
+	border-color: #ffeb3b;
+	background-color: #ffeb3b;
+}

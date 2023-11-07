@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html,
+body{
+	overflow: auto;
+    scroll-behavior: smooth;
+}
+img{
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+
+.burger-menu{
+	display: none;
+}

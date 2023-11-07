@@ -1,0 +1,33 @@
+.about-website{
+	margin-top: 130px;
+}
+.about-website-main-name{
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 36px;
+	color: #000;
+	text-align: center;
+	margin-bottom: 160px;
+}
+.about-website-main-name span{
+	color: #ffeb3b;
+}
+.about-website-group-user_interface{
+	border-left: 3px solid #f1f1f1;
+	padding-left: 30px;
+	position: relative;
+	margin-bottom: 100px;
+}
+.about-website-group-user_interface img{
+	position: absolute;
+	left: -60px;
+	top: -5px;
+}
+.about-website-group-user_interface span{
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 15px;
+}
+.about-website-group{
+	margin-bottom: 170px;
+}

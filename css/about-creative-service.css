@@ -1,0 +1,124 @@
+.about-creative-service{
+	margin: 165px 0;
+}
+.about-creative-service-main-name{
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 36px;
+	text-align: center;
+	margin-bottom: 35px;
+}
+.about-creative-service-text{
+	font-family: 'Open Sans';
+	font-weight: normal;
+	font-size: 16px;
+	color: #969595;
+	text-align: center;
+	margin-bottom: 125px;
+}
+.about-creative-service-group-element1,
+.about-creative-service-group-element2,
+.about-creative-service-group-element3,
+.about-creative-service-group-element4,
+.about-creative-service-group-element5,
+.about-creative-service-group-element6{
+	margin-bottom: 30px;
+}
+.about-creative-service-group-element1{
+	background-color: #ff5252;
+	width: auto;
+	height: 300px;
+	text-align: center;
+}
+.about-creative-service-group-element2{
+	background-color: #4caf50;
+	width: auto;
+	height: 300px;
+	text-align: center;
+}
+.about-creative-service-group-element3{
+	background-color: #673ab7;
+	width: auto;
+	height: 300px;
+	text-align: center;
+}
+.about-creative-service-group-element4{
+	background-color: #2196f3;
+	width: auto;
+	height: 300px;
+	text-align: center;
+}
+.about-creative-service-group-element5{
+	background-color: #ffeb3b;
+	width: auto;
+	height: 300px;
+	text-align: center;
+}
+.about-creative-service-group-element6{
+	background-color: #00bcd4;
+	width: auto;
+	height: 300px;
+	text-align: center;
+}
+.about-creative-service-group-element6 h2,
+.about-creative-service-group-element4 h2,
+.about-creative-service-group-element3 h2,
+.about-creative-service-group-element2 h2,
+.about-creative-service-group-element1 h2{
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 20px;
+	color: #fff;
+	text-align: center;
+	padding-top: 90px;
+	padding-bottom: 35px;
+}
+.about-creative-service-group-element5 h2{
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 20px;
+	color: #000;
+	text-align: center;
+	padding-top: 90px;
+	padding-bottom: 35px;
+}
+.about-creative-service-group-element5 span{
+	color: #000;
+	font-family: 'Open Sans';
+	font-weight: normal;
+	font-size: 13px;
+	text-align: center;
+}
+.about-creative-service-group-element5 a{
+	color: #000;
+	transition: all 0.3s;
+}
+.about-creative-service-group-element5 a:hover{
+	color: #f20000;
+}
+.about-creative-service-group-element6 span,
+.about-creative-service-group-element4 span,
+.about-creative-service-group-element3 span,
+.about-creative-service-group-element2 span,
+.about-creative-service-group-element1 span{
+	font-family: 'Open Sans';
+	font-weight: normal;
+	font-size: 13px;
+	color: #fff;
+	text-align: center;
+}
+.about-creative-service-group-element6 a,
+.about-creative-service-group-element4 a,
+.about-creative-service-group-element3 a,
+.about-creative-service-group-element2 a,
+.about-creative-service-group-element1 a{
+	color: #ffeb3b;
+	transition: all 0.3s;
+}
+.about-creative-service-group-element6 a:hover,
+.about-creative-service-group-element4 a:hover,
+.about-creative-service-group-element3 a:hover,
+.about-creative-service-group-element2 a:hover,
+.about-creative-service-group-element1 a:hover{
+	color: #fff;
+}

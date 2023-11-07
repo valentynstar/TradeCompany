@@ -1,0 +1,42 @@
+.about-our-clients{
+	background-image: url(../img/about-our-clients-bg.png);
+	width: 100%;
+	height: 100%;
+	padding-top: 120px;
+	padding-bottom: 170px;
+}
+.about-our-clients h2{
+	font-family: 'Vidaloka';
+	font-weight: normal;
+	font-size: 36px;
+	color: #fff;
+	padding-bottom: 40px;
+}
+.about-our-clients span{
+	font-family: 'Open Sans';
+	font-weight: normal;
+	font-size: 16px;
+	color: #fff;
+	
+}
+
+.owl-carousel{
+	padding-top: 120px;
+}
+.owl-dot span{
+	background-color: red;
+}
+.owl-theme .owl-dots .owl-dot{
+	outline: none;
+}
+.owl-dot{
+	margin-top: 40px;
+}
+.owl-theme .owl-dots .owl-dot span{
+	background-color: #fff !important;
+	border-radius: 0px !important;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
+	background-color: #ffda00 !important;
+	border-radius: 0px;
+}
