@@ -28,7 +28,10 @@
 .about-our-team-info-third,
 .about-our-team-info-second,
 .about-our-team-info-first{
-	border: 1px solid #f1f1f1;
+	border: 1px solid #bbb9b9;
+	margin-bottom: 20px;
+	width: 300px;
+	margin-inline: auto;
 }
 .about-our-team-info-third h3,
 .about-our-team-info-second h3,
@@ -55,7 +58,14 @@
 .about-our-team-info-second hr,
 .about-our-team-info-first hr{
 	width: 100%;
-	background-color: f1f1f1;
+	background-color: rgb(241, 241, 241);
+}
+.about-our-team-info-first img,
+.about-our-team-info-second img,
+.about-our-team-info-third img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
 }
 .about-our-team-info-social{
 	padding-top: 25px;
@@ -67,7 +77,7 @@
 	height: 30px;
 	border: 3px solid #f1f1f1;
 	border-radius: 50%;
-	color: #dadada;
+	color: #a1a1a1;
     padding-top: 4px;
 	transition: all 0.3s;
 }

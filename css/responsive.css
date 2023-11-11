@@ -139,8 +139,11 @@
 	.small-images {
 		flex: 2;
 	}
+	.big-image {
+		flex: 1;
+	}
 }
-@media(max-width: 768px){
+@media(max-width: 769px){
 	.about-website-main-name {
 		font-size: 26px;
 	}
@@ -194,7 +197,7 @@
 	.about-creative-service-group-element4,
 	.about-creative-service-group-element5,
 	.about-creative-service-group-element6 {
-		width: 400px;
+		width: 350px;
 		margin-inline: auto;
 	}
 	.about-website-group {
@@ -203,12 +206,16 @@
 	.about-our-clients {
 		padding: 70px 0;
 	}
+
+	.about-website-group-user_interface {
+		margin-left: 40px;
+	}
 }
 
 @media(max-width: 470px){
 	.header-main-text{
 		font-size: 60px !important;
-		line-height: 190px !important;
+		line-height: 110px !important;
 	}
 	.header-main-text span{
 		font-size: 90px !important;
@@ -232,5 +239,11 @@
 	}
 	.about-subscribe-main button{
 		margin-left: 0 !important;
+	}
+	.about-website-group-user_interface {
+		margin-bottom: 25px;
+	}
+	.about-website-group-user_interface {
+		margin-left: 70px;
 	}
 }

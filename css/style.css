@@ -6,12 +6,21 @@
 html,
 body{
 	overflow: auto;
+	-webkit-scroll-behavior: smooth;
+	-moz-scroll-behavior: smooth;
+	-o-scroll-behavior: smooth;
     scroll-behavior: smooth;
 }
 img{
 	max-width: 100%;
 	width: auto;
 	height: auto;
+}
+ol, ul {
+	padding-left: 0 !important;
+}
+.js {
+	justify-content: center;
 }
 
 .burger-menu{
