@@ -28,10 +28,11 @@
 .about-our-team-info-third,
 .about-our-team-info-second,
 .about-our-team-info-first{
-	border: 1px solid #bbb9b9;
+	border: 1px solid #ffeb3b;
 	margin-bottom: 20px;
 	width: 300px;
 	margin-inline: auto;
+	padding: 10px;
 }
 .about-our-team-info-third h3,
 .about-our-team-info-second h3,
