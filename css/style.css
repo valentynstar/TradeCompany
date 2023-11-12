@@ -26,3 +26,7 @@ ol, ul {
 .burger-menu{
 	display: none;
 }
+
+.owl-carousel img {
+	width: 150px !important;
+}

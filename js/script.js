@@ -4,15 +4,13 @@ document.addEventListener('DOMContentLoaded', () => {
 	jQuery(".fancybox").fancybox();
 
 	jQuery('.owl-carousel').owlCarousel({
-		items: 4,
-		loop: true,
+		item: 4,
 		center: true,
+		loop: true,
 		autoplay: true,
-		margin: 100,
-		stagePadding: 10,
+		margin: 0,
+		stagePadding: 100,
 		mouseDrag: true,
-		autoWidth: true,
-		autoHeight: true,
 		responsiveClass: true,
 		responsive: {
 			0: {
@@ -25,7 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
 				items: 3
 			}
 		}
-	
 	});
 
 	jQuery('.burger-menu').click(() => {
