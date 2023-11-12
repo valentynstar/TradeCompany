@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 	'use strict';
-	
+
 	jQuery(".fancybox").fancybox();
 
 	jQuery('.owl-carousel').owlCarousel({
@@ -26,6 +26,10 @@ document.addEventListener('DOMContentLoaded', () => {
 	});
 
 	jQuery('.burger-menu').click(() => {
-	jQuery('.burger-menu, .nav-menu, .sub-menu, .search-block, .link-menu').toggleClass('active');
+		jQuery('.burger-menu, .nav-menu, .sub-menu, .search-block, .link-menu').toggleClass('active');
+	});
+
+	jQuery('.link-menu').click(() => {
+		jQuery('.burger-menu, .nav-menu, .sub-menu, .search-block, .link-menu').removeClass('active');
 	});
 })
